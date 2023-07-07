@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    display:flex;
+    background-color: rgb(33, 33, 33);
+}
+
+.logo{
+    background-color: #000;
+    width:40vw;
+}
+.list ul{
+    display: flex;
+    text-align: center;
+    
+
+
+}
+.list li{
+    text-align: center;
+    margin-left: 10px;
+    list-style: none;
+    float:right;
+
+}
